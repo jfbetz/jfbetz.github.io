@@ -8,7 +8,20 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Areas of interest include:
+
+  - Applied Statistics & Data Analysis
+    - Classical and Modern Regression methods
+    - Bayesian Statistics
+    - Data Visualization
+    - Predictive Modeling 
+  - Statistical Programming
+    - Monte Carlo and Bootstrap Simulation
+    - Reproducible Research - Sweave, knitR, Rmarkdown
+    - Interactive Data Analysis - Shiny
+  - Epidemiological Research
+  - Design & Analysis of Clinical Trials
+  - Statistical Education
 
 ### Contact me
 
