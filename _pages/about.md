@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am an [assistant scientist](https://publichealth.jhu.edu/faculty/2679/joshua-betz) in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) in the [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu), a consultant with the [Johns Hopkins Biostatistics Center](http://www.biostat.jhsph.edu/consult), and core faculty in the [Cochlear Center for Hearing and Public Health](https://jhucochlearcenter.org). My work is focused on addressing research challenges in healthcare and public health using the best practices in statistics, data science, and data management. My areas of interest and expertise include:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+  - Design, monitoring, and analysis of studies, including randomized trials, epidemiologic cohort studies, clinical and laboratory research
+  - Reproducible data workflows for data management, analysis, and reporting
+  - App and software development in R
+  - Managing complex data sources
+  - Teaching and consulting on statistics, data science, and data management practices
