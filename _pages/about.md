@@ -36,11 +36,9 @@ and [hearing and healthy aging](https://clinicaltrials.gov/study/NCT06803394).
 I also develop software for designing, monitoring, and analyzing randomized
 trials.
 
+My [GitHub](https://github.com/jbetz-jhu) hosts several projects, including:
+
   - [Tutorials on Covariate Adjustment in Randomized Trials](https://covariateadjustment.github.io/)
   - [`impart` - Software for Flexible Study Designs and Covariate Adjustment](https://github.com/jbetz-jhu/impart)
-  - [`rctmle` - Longitudinal TMLE for Estimating Treatment Effects in RCTs]
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  - [`rctmle` - Longitudinal TMLE for Estimating Treatment Effects in RCTs](https://github.com/jbetz-jhu/RCTMLE)
+  - [`picard` - Planning Flexible Trials Interactively](https://github.com/jbetz-jhu/PICARD) which is hosted on [ShinyApps.io](https://josh-betz.shinyapps.io/PICARD/)
