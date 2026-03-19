@@ -2,7 +2,7 @@ cv:
   name: Josh Betz
   label: Associate Scientist
   email: jbetzNO.BOTS@NO.BOTS.jhu.edu
-  location: Princeton, NJ
+  location: Baltimore, MD
   image: ""
   summary: Statistician; Data Scientist; Software Developer
 
@@ -30,8 +30,8 @@ cv:
         url: https://www.umbc.edu/
         area: Statistics
         studyType: MS
-        # start_date: 1900
-        # end_date: 1905
+        start_date: 2008
+        end_date: 2012
         # score: ""
         # courses: "Theory of Relativity"
         # highlights:
