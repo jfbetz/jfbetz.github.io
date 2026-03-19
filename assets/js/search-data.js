@@ -418,16 +418,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-the-impart-package-is-now-posted-to-github",
+          title: 'The impart package is now posted to GitHub.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-the-examplercts-package-is-now-on-the-covariateadjustment-github-repo",
+          title: 'The examplercts package is now on the CovariateAdjustment GitHub repo.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-will-be-presenting-on-impart-and-co-teaching-a-short-course-on-covariate-adjustment-at-jsm-2025-in-nashville",
+          title: 'I will be presenting on impart and co-teaching a short course on covariate...',
           description: "",
           section: "News",},{id: "projects-",
           title: '',
