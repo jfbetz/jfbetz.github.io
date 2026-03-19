@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2026-02-13 12:00:00-0400
+date: 2024-03-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-The [`examplercts` package](https://github.com/CovariateAdjustment/examplercts)
-is now on the [CovariateAdjustment GitHub repo](https://github.com/CovariateAdjustment).
+I will be co-teaching [a short course on covariate adjustment](https://www.enar.org/meetings/spring2024/profdev/short_courses.cfm)
+at [ENAR 2024 in Baltimore](https://www.enar.org/meetings/spring2024/profdev/short_courses.cfm).
