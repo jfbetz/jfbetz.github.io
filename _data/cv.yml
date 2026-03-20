@@ -1,7 +1,7 @@
 cv:
   name: Josh Betz
   label: Associate Scientist
-  email: jbetzNO.BOTS@NO.BOTS.jhu.edu
+  email: jbetzHumansWill@KnowWhatToDo.jhu.edu
   location: Baltimore, MD
   image: ""
   summary: Statistician; Data Scientist; Software Developer
@@ -44,10 +44,6 @@ cv:
         location: Baltimore, MD
         start_date: 2023
         end_date: # 1955
-        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
       - company: Johns Hopkins Bloomberg School of Public Health Department of Biostatistics
         position: Associate Scientist
@@ -123,6 +119,11 @@ cv:
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
+      - name: Statistical Consulting
+        level: Expert
+        icon: fa-solid fa-person-chalkboard
+        keywords: "Collaboration, Teaching, and Practice of Statistics"
+        
       - name: R Programming
         level: Expert
         icon: fa-brands fa-r-project
@@ -143,9 +144,19 @@ cv:
         summary: "Fluent"
 
     Interests:
+    
       - name: Randomized Trials
         icon: fa-solid fa-dice
         keywords: "Randomized Trials, Covariate Adjustment, Adaptive Designs"
+        
+      - name: Package Development
+        level: Expert
+        icon: fa-brands fa-r-project
+        keywords: "Validated, User-Friendly Statistical Software"
+      
+      - name: Reproducible Research
+        icon: fa-solid fa-arrow-rotate-right
+        keywords: "Reproducible Workflows, Automation, Literate Programming"
 
     # Certificates:
     #   - name: Machine Learning
